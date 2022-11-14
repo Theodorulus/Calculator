@@ -1,3 +1,3 @@
 # Calculator
 
-Algorithm to calculate a given mathematical expression with multiple parenthesis.
+Algorithm to calculate given mathematical expression with multiple parenthesis.
